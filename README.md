@@ -1,6 +1,4 @@
 # 0005-robot-product
-
-# 0005-robot-product
 **A landing page for a robot product**
 
 This was a landing page designed by me that presents a new product.  
